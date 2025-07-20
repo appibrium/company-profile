@@ -1,0 +1,8 @@
+Tagline:
+Shaping the Future of Apps
+
+🔸 Description:
+Appibrium is a modern software development studio shaping the future of apps across platforms.
+We craft high-performance solutions—from mobile to desktop, web to enterprise systems—using technologies like Flutter, .NET, and more. Whether you're launching a startup, upgrading your business tools, or building something bold and custom—we’re here to build it right.
+
+Mobile • Desktop • Web • Enterprise — We build what matters.
