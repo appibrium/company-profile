@@ -1,25 +1,35 @@
-<img width="639" height="237" alt="Green and White Health Facebook Cover" src="https://github.com/user-attachments/assets/e70ddecd-2efe-4fd9-a1d2-d67e474308a1" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/lockup/lockup_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logos/lockup/lockup_light.svg">
+  <img alt="Appibrium Logo" src="logos/lockup/lockup_light.svg" width="340">
+</picture>
 
 # Appibrium — Organization Profile & Brand Assets
 
-> **apps. elevated.**
+> **Engineering the Future**
 >
-> Appibrium is a modern software development studio shaping the future of apps across platforms. We craft high-performance solutions—from mobile to desktop, web to enterprise systems—using technologies like Flutter, .NET, and more.
+> Appibrium is an engineering company that designs, builds, and scales intelligent technologies across software, AI, cloud infrastructure, embedded systems, and IoT. We partner with startups, businesses, and organizations to create reliable, future-ready solutions that solve real-world problems.
 
 ---
 
 ## 1. Company Introduction
 
-**Appibrium** is a premium software development and engineering studio shaping the future of applications across mobile, desktop, web, and enterprise platforms. Fusing deep-tech engineering precision with organic structural balance, we craft high-performance, robust, and scale-ready digital solutions tailored for modern businesses and startups.
+**Appibrium** is an engineering-driven technology company building the next generation of intelligent systems. Our expertise spans AI engineering, software development, cloud infrastructure, embedded systems, IoT, and digital product engineering. We combine research, design, and engineering to create scalable technologies that empower people, businesses, and communities.
 
-Our multidisciplinary team leverages industry-leading practices and agile methodologies to deliver projects that are not just technically sound, but designed to drive growth, efficiency, and real-world results.
+### Mission
+To engineer meaningful technology that empowers people, businesses, and communities through intelligent, scalable, and reliable solutions.
 
-### Our Brand Specialties
+### Vision
+To become a globally trusted engineering company shaping the future through innovation, research, and technology.
 
-*   **Embedded Systems & IoT**: Creating smart, connected hardware solutions integrating sensors, devices, and real-time data.
+### What We Do (Services)
 *   **AI Engineering**: Designing intelligent systems and features that automate workflows and enhance user experience.
-*   **Cloud Architecture**: Designing secure and scalable cloud infrastructure for modern digital products.
-*   **Software Engineering**: Building scalable, reliable, and maintainable software for real-world applications across platforms.
+*   **Software Engineering**: Building scalable, reliable, and maintainable software for real-world applications.
+*   **Cloud Infrastructure**: Designing secure and scalable cloud infrastructure for modern digital products.
+*   **Embedded Systems**: Designing and developing customized hardware systems.
+*   **Internet of Things (IoT)**: Creating smart, connected hardware solutions integrating sensors, devices, and real-time data.
+*   **Product Engineering**: Fusing research, design, and engineering to create end-to-end scalable technologies.
+*   **Research & Innovation**: Exploring next-generation technologies to solve complex real-world problems.
 
 ---
 

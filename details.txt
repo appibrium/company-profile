@@ -2,7 +2,10 @@ Tagline:
 Engineering the Future
 
 🔸 Description:
-Appibrium is a modern software development studio shaping the future of apps across platforms.
-We craft high-performance solutions—from mobile to desktop, web to enterprise systems—using technologies like Flutter, .NET, and more. Whether you're launching a startup, upgrading your business tools, or building something bold and custom—we’re here to build it right.
+Appibrium is an engineering company that designs, builds, and scales intelligent technologies across software, AI, cloud infrastructure, embedded systems, and IoT. We partner with startups, businesses, and organizations to create reliable, future-ready solutions that solve real-world problems.
 
-Mobile • Desktop • Web • Enterprise — We build what matters.
+🔸 Mission:
+To engineer meaningful technology that empowers people, businesses, and communities through intelligent, scalable, and reliable solutions.
+
+🔸 Vision:
+To become a globally trusted engineering company shaping the future through innovation, research, and technology.
