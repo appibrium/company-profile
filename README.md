@@ -8,7 +8,22 @@
 
 ---
 
-## 1. Directory Structure & Asset Directory Map
+## 1. Company Introduction
+
+**Appibrium** is a premium software development and engineering studio shaping the future of applications across mobile, desktop, web, and enterprise platforms. Fusing deep-tech engineering precision with organic structural balance, we craft high-performance, robust, and scale-ready digital solutions tailored for modern businesses and startups.
+
+Our multidisciplinary team leverages industry-leading practices and agile methodologies to deliver projects that are not just technically sound, but designed to drive growth, efficiency, and real-world results.
+
+### Our Brand Specialties
+
+*   **Embedded Systems & IoT**: Creating smart, connected hardware solutions integrating sensors, devices, and real-time data.
+*   **AI Engineering**: Designing intelligent systems and features that automate workflows and enhance user experience.
+*   **Cloud Architecture**: Designing secure and scalable cloud infrastructure for modern digital products.
+*   **Software Engineering**: Building scalable, reliable, and maintainable software for real-world applications across platforms.
+
+---
+
+## 2. Directory Structure & Asset Directory Map
 
 This repository serves as the official organization profile and brand asset repository for **Appibrium**. Below is the directory map of the assets:
 
@@ -30,7 +45,7 @@ This repository serves as the official organization profile and brand asset repo
 
 ---
 
-## 2. Interactive Brand Portal
+## 3. Interactive Brand Portal
 
 An interactive showcase is provided for easy browsing, color copying, and single-click downloads of logo assets.
 
@@ -40,7 +55,7 @@ To open the portal:
 
 ---
 
-## 3. Brand Identity Highlights
+## 4. Brand Identity Highlights
 
 ### Visual Concept
 Appibrium contrasts the mysterious, structured depth of **Forest Depth** (representing stable foundations, organic growth, and balance) with an energetic, glowing **Electric Mint** (representing innovation, technology, and future direction).
@@ -63,7 +78,7 @@ Appibrium contrasts the mysterious, structured depth of **Forest Depth** (repres
 
 ---
 
-## 4. Logo Generation Tool
+## 5. Logo Generation Tool
 
 For creative team members looking to regenerate the asset kit in custom sizes or vector styles:
 

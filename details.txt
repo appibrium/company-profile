@@ -1,5 +1,5 @@
 Tagline:
-Shaping the Future of Apps
+Engineering the Future
 
 🔸 Description:
 Appibrium is a modern software development studio shaping the future of apps across platforms.
