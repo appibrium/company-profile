@@ -101,8 +101,8 @@ company-profile/ (Root)
 │   └── generator/     # code-based logo rendering tools (exporter.js, HTML source templates)
 ├── guidelines/
 │   └── brand_guidelines.md  # this document
-├── portal/
-│   ├── index.html     # interactive brand asset portal
+├── media-kit/
+│   ├── elements/      # social cover and profile logo elements
 │   └── mockups/       # brand mockups (mobile app, stationery)
 └── appibrium_originals/  # original portfolio assets (datayon.png, dokanmate.png, etc.)
 ```

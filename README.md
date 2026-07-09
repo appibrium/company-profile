@@ -1,5 +1,5 @@
 <a href="https://appibrium.com">
-  <img src="https://raw.githubusercontent.com/appibrium/company-profile/main/portal/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/appibrium/company-profile/main/media-kit/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
 </a>
 
 <br/>
@@ -47,22 +47,20 @@ This repository serves as the official organization profile and brand asset repo
     *   📁 **[generator/](file:///r:/Startup/Appibrium/company-profile/logos/generator)** — Code-based SVG and PNG brand asset exporter tools (Puppeteer & HTML source code)
 *   📂 **[guidelines/](file:///r:/Startup/Appibrium/company-profile/guidelines)** — In-depth branding specifications
     *   📄 **[brand_guidelines.md](file:///r:/Startup/Appibrium/company-profile/guidelines/brand_guidelines.md)** — Core design principles, font scales, color usage, and compliance rules
-*   📂 **[portal/](file:///r:/Startup/Appibrium/company-profile/portal)** — Brand Assets Portal
-    *   📄 **[index.html](file:///r:/Startup/Appibrium/company-profile/portal/index.html)** — Interactive showcase dashboard of all colors and assets, including direct download links
-    *   📁 **[mockups/](file:///r:/Startup/Appibrium/company-profile/portal/mockups)** — Renders demonstrating the brand identity in action (Stationery, Mobile app UI)
+*   📂 **[media-kit/](file:///r:/Startup/Appibrium/company-profile/media-kit)** — Brand assets, elements and mockups
+    *   📁 **[elements/](file:///r:/Startup/Appibrium/company-profile/media-kit/elements)** — Social media cover banner and profile logo elements
+    *   📁 **[mockups/](file:///r:/Startup/Appibrium/company-profile/media-kit/mockups)** — Renders demonstrating the brand identity in action (Stationery, Mobile app UI)
 *   📂 **[appibrium_originals/](file:///r:/Startup/Appibrium/company-profile/appibrium_originals)** — Original high-resolution portfolio images & banners (Datayon, Dokanmate, Gorusheba, Porichoy)
 *   📂 **[content/](file:///r:/Startup/Appibrium/company-profile/content)** — Centralized website content files
     *   📄 **[Appibrium Website Content.md](file:///r:/Startup/Appibrium/company-profile/content/Appibrium%20Website%20Content.md)** — Official copy deck for the Appibrium public website
 
 ---
 
-## 3. Interactive Brand Portal
+## 3. Interactive Media & Brand Kit
 
-An interactive showcase is provided for easy browsing, color copying, and single-click downloads of logo assets.
+An interactive Media Kit website is hosted online at **[appibrium.github.io/media-kit](https://appibrium.github.io/media-kit/index.html)**.
 
-To open the portal:
-1. Double-click the file [portal/index.html](file:///r:/Startup/Appibrium/company-profile/portal/index.html) to open it in your default web browser (Edge, Chrome, Safari, etc.).
-2. Use the tabs to browse the Typography Scale, Do's & Don'ts, and systematic layout standards.
+It provides easy browsing, color copying, contrast testing, tagline-free logo variants, clear space rules, and single-click downloads of all Appibrium branding vector and PNG assets.
 
 ---
 
