@@ -1,8 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/appibrium/company-profile/main/logos/lockup/lockup_w4_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/appibrium/company-profile/main/logos/lockup/lockup_w4_light.svg">
-  <img alt="Appibrium Logo" src="https://raw.githubusercontent.com/appibrium/company-profile/main/logos/lockup/lockup_w4_light.svg" width="340">
-</picture>
+<a href="https://appibrium.com">
+  <img src="https://raw.githubusercontent.com/appibrium/company-profile/main/portal/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
+</a>
+
+<br/>
+
 
 # Appibrium — Organization Profile & Brand Assets
 
@@ -102,3 +103,13 @@ For creative team members looking to regenerate the asset kit in custom sizes or
    npm run generate
    ```
 This will automatically launch Microsoft Edge in headless mode, render the logo components via the HTML templates, and write updated SVGs and PNGs directly into the respective folders (`logos/icon`, `logos/lockup`, `logos/stacked`, `logos/wordmark`).
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/appibrium/company-profile/main/logos/lockup/lockup_w4_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/appibrium/company-profile/main/logos/lockup/lockup_w4_light.svg">
+    <img alt="Appibrium Logo" src="https://raw.githubusercontent.com/appibrium/company-profile/main/logos/lockup/lockup_w4_light.svg" width="280">
+  </picture>
+</p>
